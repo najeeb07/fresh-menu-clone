@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Define the gradient colors -->
+    <gradient
+        android:startColor="#f4914f"
+        android:endColor="#e65926"
+        android:type="linear" />
+
+    <!-- Define the corner radius -->
+    <corners android:radius="20dp" /> <!-- Adjust the radius as needed -->
+
+</shape>

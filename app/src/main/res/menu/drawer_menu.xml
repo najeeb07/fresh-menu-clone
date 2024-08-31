@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- drawer_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_item1"
+        android:title="Menu"
+        android:icon="@drawable/baseline_fastfood_24"/>
+    <item
+        android:id="@+id/nav_item2"
+        android:title="Refer and Earn"
+        android:icon="@drawable/baseline_card_giftcard_24"/>
+
+    <item
+        android:id="@+id/nav_offers"
+        android:title="Offers and Rewards"
+        android:icon="@drawable/offers"/>
+
+
+    <item
+        android:id="@+id/nav_gift_card"
+        android:title="Gift Card"
+        android:icon="@drawable/offers"/>
+
+
+    <item
+        android:id="@+id/nav_help"
+        android:title="Help Centre"
+        android:icon="@drawable/baseline_business_center_24"/>
+
+    <item
+        android:id="@+id/nav_notification"
+        android:title="Notifications"
+        android:icon="@drawable/baseline_notifications_24"/>
+
+
+    <item
+        android:id="@+id/nav_privacy"
+        android:title="Privacy Policy"
+        android:orderInCategory="100"
+        android:menuCategory="secondary"
+        />
+
+    <item
+        android:id="@+id/nav_about"
+        android:title="About Us"
+        android:orderInCategory="101"
+        android:menuCategory="secondary"
+        />
+    <!-- Add more items as needed -->
+</menu>

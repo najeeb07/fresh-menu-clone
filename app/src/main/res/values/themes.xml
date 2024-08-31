@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FreshMenu" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">@font/josefinsansregular</item>
+        <item name="android:statusBarColor">
+            @color/button_color
+        </item>
+
+</style>
+
+    <style name="Theme.FreshMenu" parent="Base.Theme.FreshMenu" />
+
+    <style name="TabTextStyle" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item> <!-- Change the text size as needed -->
+        <!-- You can add more styling attributes here if desired -->
+    </style>
+
+    <style name="DrawerMenuItemStyle" parent="Widget.Design.NavigationView">
+        <item name="android:textSize">18sp</item> <!-- Adjust the text size as needed -->
+    </style>
+</resources>

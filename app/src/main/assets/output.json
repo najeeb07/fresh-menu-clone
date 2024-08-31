@@ -1,0 +1,553 @@
+{
+     "foodCategories": [
+          {
+               "name": "Salads",
+               "listOfItems": [
+                    {
+                         "id": "1",
+                         "name": "Summer Salad",
+                         "description": "Refreshing and colorful Summer Salad featuring crisp greens, juicy fruits, and crunchy vegetables tossed in a tangy vinaigrette dressing.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "2",
+                         "name": "Cesar Salad Veg/Non-veg",
+                         "description": "A classic Cesar Salad featuring crisp lettuce, crunchy croutons, savory Parmesan cheese, and your choice of either grilled chicken or a medley of fresh vegetables, all tossed in a creamy, tangy dressing.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "3",
+                         "name": "Watermelon Feta Salad",
+                         "description": "Refreshing watermelon chunks paired with salty feta cheese and fresh mint leaves, tossed in a zesty citrus dressing - a perfect summer salad.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "4",
+                         "name": "Roasted Vegetable Salad with Cream Mustard",
+                         "description": "A colorful and nutritious salad of roasted vegetables, topped with a creamy and tangy mustard dressing",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    }
+               ]
+          },
+          {
+               "name": "Conti Veg Starters",
+               "listOfItems": [
+                    {
+                         "id": "5",
+                         "name": "French Fries",
+                         "description": "Crispy, golden-brown potato strips, salted to perfection and served hot, making French Fries a beloved side dish and snack worldwide",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "6",
+                         "name": "Cheesy Fries",
+                         "description": "Indulge in a heavenly combination of crispy fries smothered in melted cheese, perfect for satisfying your savory cravings - Cheesy Fries",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "7",
+                         "name": "Peri Peri French Fries",
+                         "description": "Spice up your snack game with crispy and flavorful Peri Peri French Fries, coated with a zesty blend of chili, garlic, and herbs",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "8",
+                         "name": "Cheese Onion Rings",
+                         "description": "These are stuffed with thin slices of mozzarella cheese between the two slices of onion rings. Next, they are coated and fried to golden perfection",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "9",
+                         "name": "Mac N cheese bite",
+                         "description": "These delicious mac and cheese bites are melty in the center and crunchy on the outside. They are deep-fried until beautifully golden brown",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "10",
+                         "name": "Nachos with Salsa",
+                         "description": "Place the nachos on the platter, sprinkle some tomato salsa on top, some grated cheese, boiled rajma(kidney beans), some olives, jalape\u00c3\u00b1os",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "11",
+                         "name": "Cheese Nachos",
+                         "description": "A twist on classic nachos, loaded with melted cheese",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "12",
+                         "name": "Japenos Cheese Balls",
+                         "description": "Jalapeno Popper Bites are deep fried, melted cheese balls stuffed with diced jalape\u00c3\u00b1os , coated in crispy breadcrumbs.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "13",
+                         "name": "Four Play Platter Veg",
+                         "description": "A continental veg platter with lots of variety, flavour and colour on the plate. This complete yet not too heavy and satisfying meal will",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "14",
+                         "name": "Basil Water Chestnut",
+                         "description": "Deep fried water chestnuts tossed in sweet and spicy sauce",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "15",
+                         "name": "Falafel Pockets",
+                         "description": "Falafel with Pita pockets is a Middle-Eastern classic. The soft pita bread stuffed with crunchy falafel and topped",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "16",
+                         "name": "Sriracha Paneer Fingers",
+                         "description": "repare to bite into these flavorful spicy paneer bites that are crunchy and crispy on the outside, moist and tender inside.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    }
+               ]
+          },
+          {
+               "name": "Conti Non-veg Starters",
+               "listOfItems": [
+                    {
+                         "id": "17",
+                         "name": "Chicken Cheese Nachos",
+                         "description": "A meaty twist on classic nachos, loaded with chicken and melted cheese.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "18",
+                         "name": "Cr\u00c3\u00a8me De Chicken 65'",
+                         "description": "Tender chicken pieces in a creamy and flavorful sauce",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "19",
+                         "name": "Chicken Popcorn",
+                         "description": "Bite-sized pieces of juicy chicken, perfect for snacking",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "20",
+                         "name": "Crispy Chicken Strips",
+                         "description": "Tender and crispy chicken strips, perfect for dipping.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "21",
+                         "name": "Peri Peri Chicken Skewers",
+                         "description": "Spicy and succulent chicken skewers, grilled to perfection",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "22",
+                         "name": "Crispy Chicken Wings",
+                         "description": "Juicy and crispy chicken wings, a classic pub food favorite",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "23",
+                         "name": "BBQ Chicken Wings",
+                         "description": "Sticky and smoky BBQ sauce coating tender chicken wings, a finger-licking good appetizer",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "24",
+                         "name": "Cilantro Fish",
+                         "description": "A burst of fresh cilantro and tangy lime on succulent fish fillets",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "25",
+                         "name": "Fish Fingers",
+                         "description": "Crispy and golden-brown fish fingers, perfect for snacking.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "26",
+                         "name": "Four Play Platter Non-Veg",
+                         "description": "",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "27",
+                         "name": "pepper chicken",
+                         "description": "The key to this delicious aromatic dish is the freshly ground pepper which brings a mild heat to the dish.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "28",
+                         "name": "crispy fried prawns",
+                         "description": "Golden fried prawns recipe is a delicious and crispy snack with a crunchy and flavoursome coating to make it interesting",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "29",
+                         "name": "chilli basil prawns",
+                         "description": "This spicy stir-fry celebrates chilli, fragrant basil and juicy prawns, and is a match made in hot heave",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    }
+               ]
+          },
+          {
+               "name": "Pizza",
+               "listOfItems": [
+                    {
+                         "id": "30",
+                         "name": "Margarita Pizza",
+                         "description": "A classic pizza topped with fresh tomato sauce, mozzarella, and basil",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "31",
+                         "name": "Mexican Pizza",
+                         "description": "A spicy and flavorful pizza topped with jalapenos, salsa, and cheese",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "32",
+                         "name": "Pesto Neapolitian Pizza",
+                         "description": "A delicious twist on the classic Margherita pizza with pesto sauce and fresh toppings",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "33",
+                         "name": "Al-Fungi Pizza",
+                         "description": "A vegetarian pizza loaded with a variety of fresh and delicious mushrooms.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "34",
+                         "name": "Pesto Chicken Pizza",
+                         "description": "A pizza with the perfect balance of pesto sauce and juicy chicken.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "35",
+                         "name": "Ghee Kheema Pizza",
+                         "description": "An Indian twist on pizza, topped with spicy minced meat and ghee",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "36",
+                         "name": "Tandoori Chicken Tikka Pizza",
+                         "description": "A fusion of Indian and Italian cuisines, featuring succulent tandoori chicken on a pizza",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "37",
+                         "name": "BBQ Chicken Pizza",
+                         "description": "A pizza topped with tender chicken pieces in sticky BBQ sauce, a crowd-pleasing favorite",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "38",
+                         "name": "Chicken Pepperoni Pizza",
+                         "description": "A classic pizza with a meaty twist, featuring juicy chicken and pepperoni.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "39",
+                         "name": "spicy chicken pizza",
+                         "description": "A pizza topped with Spicy chicken pieces , mozzarella a crowd-pleasing favorite",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    }
+               ]
+          },
+          {
+               "name": "Burger",
+               "listOfItems": [
+                    {
+                         "id": "40",
+                         "name": "Crunchy Paneer Burger",
+                         "description": "A vegetarian burger featuring crispy paneer patty with a variety of toppings",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "41",
+                         "name": "Grilled Chicken Burger",
+                         "description": "Juicy grilled chicken patty sandwiched between warm buns with fresh toppings.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "42",
+                         "name": "Crispy Chicken Burger",
+                         "description": "A crispy and satisfying chicken patty burger, perfect for satisfying cravings",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "43",
+                         "name": "Lamb Burtger",
+                         "description": "A juicy lamb patty topped with fresh toppings, a flavorful twist on classic burgers.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    }
+               ]
+          },
+          {
+               "name": "Pasta",
+               "listOfItems": [
+                    {
+                         "id": "44",
+                         "name": "Alfredo Pasta",
+                         "description": "Rich and creamy pasta coated in a velvety white sauce.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "45",
+                         "name": "Arrabbiata Sauce Pasta",
+                         "description": "A fiery and tangy pasta dish with a tomato-based sauce that packs a punch.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "46",
+                         "name": "Al Pesto",
+                         "description": "Bursting with the flavors of fresh basil, garlic, and pine nuts, this pasta is tossed in a zesty pesto sauce.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "47",
+                         "name": "Aglio-Olio",
+                         "description": "Simple yet flavorful, this pasta is tossed in a garlic and olive oil sauce and topped with chili flakes",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "48",
+                         "name": "Spheghetti Lamb Bolognese",
+                         "description": "A classic pasta dish with a hearty lamb-based sauce that's slow-cooked to perfection",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "49",
+                         "name": "Lasagna Veg/Non-veg",
+                         "description": "Layers of pasta sheets, cheese, and vegetables/meat come together in this hearty and comforting Italian dish",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    }
+               ]
+          },
+          {
+               "name": "Sandwich",
+               "listOfItems": [
+                    {
+                         "id": "50",
+                         "name": "boiled egg sandwich",
+                         "description": "At the heart of a great egg sandwich is a creamy egg filling and essential to this are soft boiled, not hard boiled eggs",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xljt.png"
+                    },
+                    {
+                         "id": "51",
+                         "name": "Mumbai Masala Sandwich",
+                         "description": "A spicy and tangy sandwich that's a popular street food in Mumbai.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "52",
+                         "name": "Pesto Grilled Sandwich (Veg/Non-Veg) Panini Bread",
+                         "description": "Crispy and flavorful grilled sandwich with a zesty pesto sauce and your choice of veggies or meat",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "53",
+                         "name": "Pulled BBQ Chicken Sandwich",
+                         "description": "Tender and juicy pulled chicken smothered in a tangy BBQ sauce and served on a soft bun",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    },
+                    {
+                         "id": "54",
+                         "name": "Curry Chicken Sandwich Panini Bread",
+                         "description": "A fusion of Indian and Italian flavors, this sandwich is packed with tender chicken and aromatic spices",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    }
+               ]
+          },
+          {
+               "name": "Main Course",
+               "listOfItems": [
+                    {
+                         "id": "55",
+                         "name": "Mexican Bowl ( Veg/Non-veg)",
+                         "description": "A colorful and flavorful bowl filled with beans, rice, veggies, and your choice of protein, all topped with a zesty salsa",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "56",
+                         "name": "hummus with garlic bread or pita bread",
+                         "description": "",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "57",
+                         "name": "Stuffed Grilled Chicken (Grilled veggies / Herb rice / Mashed potato)",
+                         "description": "Tender chicken breast stuffed with creamy cheese and herbs, grilled to perfection",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xYyN.png"
+                    },
+                    {
+                         "id": "58",
+                         "name": "Peri Peri Cottage Cheese Steak",
+                         "description": "A vegetarian delight with a juicy and flavorful cottage cheese steak infused with spicy peri-peri sauce",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "59",
+                         "name": "Chicken Stroganoff",
+                         "description": "Tender and juicy chicken cooked , served on a bed of fluffy rice and veggies",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x0ZX.png"
+                    }
+               ]
+          },
+          {
+               "name": "Dessert",
+               "listOfItems": [
+                    {
+                         "id": "60",
+                         "name": "Sebastian Cheese Cake",
+                         "description": "It is made from cream cheese, sugar, eggs, and cream and is often flavoured with vanilla or lemon. A creamy San Sebastian cheesecake is a popular dessert",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "61",
+                         "name": "Alia bhatt milk cake",
+                         "description": "",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5x7vp.png"
+                    },
+                    {
+                         "id": "62",
+                         "name": "Panna Cotta",
+                         "description": "A silky and creamy Italian dessert that's made with sweetened cream and set with gelatin.",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    },
+                    {
+                         "id": "63",
+                         "name": "mango mille feuille",
+                         "description": "Mango Mille-Feuille, a fruity dessert with layers of puff pastry, mango puree and vanilla cream",
+                         "price": "299",
+                         "promotionalPrice": "",
+                         "image": "https://iili.io/Jj5xcuI.png"
+                    }
+               ]
+          }
+     ]
+}
